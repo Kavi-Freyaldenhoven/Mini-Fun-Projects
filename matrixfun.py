@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Matrix.py
-Name(s): Kavi Freyaldenhoven
-NetId(s): kf154
-Date: 02/22/2021
+Kavi Freyaldenhoven
 """
 
 """
@@ -64,7 +61,7 @@ class Matrix:
         self.ipiv = None
 
     # Special method used for printing this Matrix.
-    # You will not have to alter this function.
+
     def __repr__(self):
         s = ''
         s += 'The %dx%d Matrix itself:\n\n' % (self.numRows, self.numCols)
