@@ -8,6 +8,6 @@ LU factorization function <br />
 forward substitution function <br />
 backwards substitution function <br />
 gaussian elimination function <br />
-<br />
+permutation <br />
 <br />
 <br />
