@@ -271,7 +271,7 @@ class Matrix:
     
     Inputs: b is a vector of class matrix
     
-    Output: x is a vector of class matrix
+    Output: x is a vector of matrix class
     
     '''
 
