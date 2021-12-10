@@ -1,17 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Matrix.py
-Name(s): Kavi Freyaldenhoven
-NetId(s): kf154
-Date: 02/22/2021
+Kavi Freyaldenhoven
 """
 
 """
 printMat
 
-This function will print a matrix in a readable format. You will not need to
-alter this function.
+This function will print a matrix in a readable format.
 
 INPUTS
 mat: the matrix represented as a list of lists in row major form.
@@ -64,7 +60,6 @@ class Matrix:
         self.ipiv = None
 
     # Special method used for printing this Matrix.
-    # You will not have to alter this function.
     def __repr__(self):
         s = ''
         s += 'The %dx%d Matrix itself:\n\n' % (self.numRows, self.numCols)
