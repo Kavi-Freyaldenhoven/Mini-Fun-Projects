@@ -2,7 +2,7 @@
 
 Matrixfun.py Contents:
 
-Implementation of a Matrix class
+Implementation of a Matrix class /n
 Function to multiply Matrices
 Function to perform LU factorization
 Function to perform forward substitution
